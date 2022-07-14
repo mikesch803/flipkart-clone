@@ -1,0 +1,42 @@
+.hz-card {
+    width: 50%;
+    display: flex;
+}
+
+.hz-card .img-wrapper {
+    width: 5rem;
+}
+
+.hz-card .img-wrapper img {
+    height: 5rem;
+    width: 100%;
+    object-fit: contain;
+    padding: 0.5rem;
+}
+
+.flex-dir {
+    flex-direction: column;
+}
+
+.card-qty {
+    padding: 0 0.25rem 0.25rem 0.25rem;
+}
+
+.btn-qty {
+    border-radius: 50%;
+    border: 1px solid var(--text-grey);
+}
+
+.hz-btm-btn {
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.gap {
+    gap: 0.5rem;
+}
+
+.flex-hz {
+    display: flex;
+}
+

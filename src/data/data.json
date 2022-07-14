@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id":"1",
+            "src":"https://rukminim1.flixcart.com/image/580/696/khp664w0/jacket/n/c/j/m-58970201-puma-original-imafxmg5pzkmkggh.jpeg?q=50",
+            "name":"Full Sleeve Printed Men Sports Jacket",
+            "brand" : "puma",
+            "mrp" : 3499,
+            "offer_price" : "1569",
+            "discount" : "55%",
+            "size" : ["S", "M", "L"]
+        },
+        {"id":"2",
+        "src":"https://rukminim1.flixcart.com/image/580/696/kxdl3m80/jacket/j/l/i/xxl-1-no-67018501-puma-original-imag9uh6ut2hzv24.jpeg?q=50",
+            "name":"Full Sleeve 19 FZ TR Printed Men Sports Jacket",
+            "brand" : "puma",
+            "mrp" : 3499,
+            "offer_price" : 1569,
+            "discount" : "55%",
+            "size" : ["S", "M", "L", "XL", "XXL"]
+        },
+        {"id":"3",
+        "src":"https://rukminim1.flixcart.com/image/580/696/kyvvtzk0/jacket/0/b/c/-original-imagbffhxqxghzfa.jpeg?q=50",
+            "name":"Full Sleeve Men Causual Jacket",
+            "brand" : "US polo",
+            "mrp" : 5999,
+            "offer_price" : 3599,
+            "discount" : "40%",
+            "size" : ["S", "M", "L", "XL", "XXL", "3XL"]
+        },
+        {"id":"4",
+        "src":"https://rukminim1.flixcart.com/image/580/696/khf63680/jacket/k/c/h/m-usjckon0020-u-s-polo-assn-original-imafxeqpydbdhw9s.jpeg?q=50",
+            "name":"Full Sleeve Printed Men Sports Jacket",
+            "brand" : "US polo",
+            "mrp" : 5999,
+            "offer_price" : 3599,
+            "discount" : "40%",
+            "size" : ["S", "M", "L", "XL", "XXL"]
+        },
+        {"id":"5",
+        "src":"https://rukminim1.flixcart.com/image/580/696/k3yrte80/jacket/z/7/a/s-jk1778-u-s-polo-assn-original-imafmz7mwz2jank4.jpeg?q=50",
+            "name":"Full Sleeve Solid Men Causual Jacket",
+            "brand" : "US polo",
+            "mrp" : 3499,
+            "offer_price" : "1569",
+            "discount" : "40%",
+            "size" : ["M", "L"]
+        },
+        {"id":"6",
+        "src":"https://rukminim1.flixcart.com/image/580/696/kvzkosw0/jacket/7/b/5/l-no-183049-the-souled-store-original-imag8rsmvbttxczp.jpeg?q=50",
+            "name":"Batman : Classic jacket",
+            "brand" : "The souled store",
+            "mrp" : 2299,
+            "offer_price" : 3599,
+            "discount" : "36%",
+            "size" : ["S", "M", "L"]
+        },
+        {"id":"7",
+        "src":"https://rukminim1.flixcart.com/image/580/696/kxgfzbk0/jacket/s/0/j/m-1-no-udjcks1004-u-s-polo-assn-original-imag9wqspg8vgyy6.jpeg?q=50",
+            "name":"Full Sleeve Printed Men Sports Jacket",
+            "brand" : "US polo",
+            "mrp" : 4199,
+            "offer_price" : 6999,
+            "discount" : "40%",
+            "size" : ["S", "M", "L"]
+        }
+    ]
+}

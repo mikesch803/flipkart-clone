@@ -1,0 +1,52 @@
+.header-wrapper {
+    background-color: var(--color-primary);
+}
+
+.header {
+    max-width: 80%;
+    margin: auto;
+    padding: 0.25rem;
+}
+
+
+.searchbar-wrapper {
+    background-color: #fff;
+    width: fit-content;
+}
+
+.searchbar {
+    border: none;
+    padding: 0.1rem 1rem;
+}
+
+.search-icon {
+    background: none;
+    border: none;
+}
+
+.logo-searchbar-wrapper {
+    display: flex;
+}
+
+.btn {
+    background: none;
+    border: none;
+    padding: 0.1rem 0.5rem;
+    font-size: 0.5rem;
+}
+
+.btn-login {
+   background-color: #fff;
+   color: var(--color-primary);
+}
+
+.btn-link {
+   color: #fff;
+   text-transform: capitalize;
+
+}
+
+
+.mr-half {
+    margin-right: 0.1rem;
+}

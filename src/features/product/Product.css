@@ -1,0 +1,11 @@
+.container {
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.flex-start {
+    justify-content: flex-start;
+}
+
+main {
+    margin: 1rem;
+}
